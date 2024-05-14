@@ -1,0 +1,86 @@
+SAMPLE PROGRAMS FOR EVERY LANGUAGE
+1.	Write a program to print “Hello world!”.
+2.	Write a program to print “hello world” each word on a different line.
+3.	Write a program to calculate the sum, difference, product, and quotient of two initialised numbers. 
+4.	Write a program to take two numbers as input and print their sum, difference, product, and quotient. 
+5.	Write a program to calculate the average of two numbers. 
+6.	Write a program to calculate the rectangle, triangle, circle, and square area. 
+7.	Write a program to calculate the volume of a cube, cuboid, cone, sphere, and cylinder. 
+8.	Write a program to accept values of different data types and display them. 
+9.	Write a program to find the ASCII value of a character.
+10.	Write a program to convert numbers into characters. 
+11.	Write a program to calculate simple interest and compound interest.
+12.	Write a program to swap two numbers using the third variable. 
+13.	 Write a program to swap two numbers without using the third variable. 
+14.	 Write a program to calculate gross salary & net salary.
+            DA = 70% of basic salary
+            HRA = 20% of basic salary
+            PF = 5% of basic salary
+            GS = b + D + H
+            NS = GS – PF
+15.	Write a program to read the 5 subject marks of a student and calculate the total and average marks of the student. 
+16.	Write a program to convert the temperature from Celsius to Fahrenheit and vice-versa. 
+17.	A cricket team has the following table of batting figures for a series of test matches. 
+    Player’s name	        Runs	    Innings	      Times not out
+    Sachin	              8430	    230	          18
+    Saurav	              4200	    130	          8
+    Rahul	                3350	    105	          11
+    Write a program to read the figures set out in the above form to calculate the batting average and to print out the complete table including the average.
+18.	Write a program to demonstrate the use of short-hand arithmetic operators. 
+19.	Write a program to demonstrate the use of all relational operators.
+20.	Write a program to demonstrate the use of all logical operators. 
+21.	Write a program to demonstrate the use of all bitwise operators. 
+22.	Write a program to demonstrate the use of increment/decrement operators. 
+23.	 Write a program to calculate the years, months, weeks, and days with a number taken as input. 
+24.	Write a program to check whether a given number is even or odd. 
+25.	Write a program to check whether a candidate is eligible to vote or not. 
+26.	Write a program to find the largest of two numbers. 
+27.	Write a program to check whether a given year is a leap year. 
+28.	 Write a program to check whether a number is positive, negative or zero. 
+29.	Write a program to check the class of a student. 
+              <35 = fail
+              35 – 49 = just pass
+              50 – 59 = 2nd class
+              60 – 84 = 1st class
+              85 – 100 = distinction 
+30.	Write a program to check whether two numbers are equal using conditional statements. 
+31.	Write a program to find the largest of three numbers.
+32.	Write a program to check the eligibility of a candidate for a professional course. 
+33.	Write a program to take input from three sides of a triangle and check whether the triangle is isosceles, scalene or equilateral. 
+34.	 Write a program to check whether a given character is a number, alphabet or special character. 
+35.	Write a number that gives the number in words. 
+              For eg – If the input is 23  The output must be “Twenty-three”
+36.	Write a program to check whether a character entered is a vowel or a consonant.
+37.	Write a program to print the numbers from (1,2,3,4………100) and (100,99,98,97,…..1).
+38.	Write a program to print the even and odd numbers in the range 1-100. 
+39.	Write a program to print the even numbers in the given range. 
+40.	Write a program to calculate the sum of n numbers.
+41.	Write a program to reverse a given number.
+42.	Write a program to calculate the sum of digits of a given number.
+43.	Write a program to generate the multiplication table of a number. 
+44.	Write a program to print the following pattern.
+    1
+    22
+    333
+    4444
+    55555
+45.	Write a program to find the factorial of a number.
+46.	Write a program to print the alphabet triangle. 
+47.	Write a program to display the Fibonacci series.
+48.	Write a program to print the Fibonacci triangle.
+49.	Write a program to calculate the GCD and LCM of two numbers. 
+50.	Write a program to calculate the power of a number without using built-in functions.
+51.	Write a program to display prime numbers in a given range. 
+52.	Write a program to check whether the given number is an Armstrong number. 
+53.	Write a program to check whether the given number is an Adam number. 
+54.	Write a program to display the factors of a given number.
+55.	Write a program to convert decimal numbers to binary. 
+56.	Write a program to enter a number and print the month (switch statement)
+57.	Write a program to calculate the roots of a quadratic equation. 
+58.	Write a program to check whether a number is a palindrome.
+59.	Write a program to find the minimum and maximum value from a set of real values.
+60.	Write a program to demonstrate the bubble sort. 
+61.	Write a program to demonstrate binary search. 
+62.	Write a program to demonstrate the multiplication of 2 matrices. 
+63.	 Write a program to demonstrate the concatenation of two strings. 
+64.	Write a program to demonstrate the functions of strings. 
